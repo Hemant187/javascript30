@@ -1,5 +1,4 @@
-project 1 Javascript Drum kit - https://javascriptdrumkit.glitch.me/
-Project 2 Js-Css Clock - (https://hemantclock.netlify.app/)
+<h1>Javascript 30 is a Challenge. |30 days 30 projects in vanilla js| </h1>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -41,6 +40,9 @@ Project 2 Js-Css Clock - (https://hemantclock.netlify.app/)
 <tr>
 <td style="width: 50%;">10 - Hold Shift and Check Checkboxes</td>
 <td style="width: 50%;">https://hemant187.github.io/javascript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/</td>
+</tr>
+<td style="width: 50%;">11 - Html-5 Video Player</td>
+<td style="width: 50%;">https://hemant187.github.io/videoplayer</td>
 </tr>
 </tbody>
 </table>
