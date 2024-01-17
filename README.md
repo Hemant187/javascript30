@@ -41,8 +41,13 @@
 <td style="width: 50%;">10 - Hold Shift and Check Checkboxes</td>
 <td style="width: 50%;">https://hemant187.github.io/javascript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/</td>
 </tr>
+<tr>
 <td style="width: 50%;">11 - Html-5 Video Player</td>
 <td style="width: 50%;">https://hemant187.github.io/videoplayer</td>
+</tr>
+<tr>
+<td style="width: 50%;">12 - Key Sequence Detection</td>
+<td style="width: 50%;">https://hemant187.github.io/javascript30/12%20-%20Key%20Sequence%20Detection/</td>
 </tr>
 </tbody>
 </table>
