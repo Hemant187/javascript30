@@ -49,5 +49,9 @@
 <td style="width: 50%;">12 - Key Sequence Detection</td>
 <td style="width: 50%;">https://hemant187.github.io/javascript30/12%20-%20Key%20Sequence%20Detection/</td>
 </tr>
+<tr>
+<td style="width: 50%;">13 - Slide in on Scroll</td>
+<td style="width: 50%;">https://hemant187.github.io/javascript30/13%20-%20Slide%20in%20on%20Scroll//</td>
+</tr>
 </tbody>
 </table>
