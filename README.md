@@ -1,4 +1,4 @@
-<h1>Javascript 30 is a Challenge. |30 days 30 projects in vanilla js| </h1>
+<h1>Javascript 30 is a Challenge. |30 projects in vanilla js| </h1>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
